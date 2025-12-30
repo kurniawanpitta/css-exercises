@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+
+.style-basic {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    }
+
+.style-one {
+    color: white;
+    background-color: black;
+}
+
+.style-two {
+    background-color: yellow;
+}
+
+/*  other style, make .style-one,style-two to replace style-basic */
