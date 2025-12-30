@@ -1,1 +1,24 @@
 /* Add CSS Styling */
+
+.odd-number {
+  color: black;
+  background-color:rgb(255, 167, 167);
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#style-one {
+    color: blue;
+    background-color:white;
+    font-size: 36px;
+}
+
+.adjust-font {
+    font-size: 24px;
+}
+
+#style-two {
+    color: black;
+    background-color:rgb(128, 255, 128);
+    font-size: 24px;
+    font-weight: bold;
+}
