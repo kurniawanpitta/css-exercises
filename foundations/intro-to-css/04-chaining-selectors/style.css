@@ -1,1 +1,29 @@
-/* Add CSS Styling */
+/* Base avatar styling */
+.avatar, .original {
+    width: 300px;
+    height: auto;
+}
+
+/* Avatar proportioned */
+.avatar.proportioned {
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Avatar distorted */
+.avatar.distorted {
+    height: 200px;
+    object-fit: cover;
+}
+
+.original.proportioned {
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.original.distorted {
+    height: 200px;
+    object-fit: cover;
+}
