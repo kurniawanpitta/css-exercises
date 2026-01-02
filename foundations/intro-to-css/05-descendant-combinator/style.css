@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.container .text {
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+.text {
+    color: blue;
+    background-color: lightgray;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Below are some other possible descendant combinators:
+
+div p
+div .text
+.container p
+
+*/
